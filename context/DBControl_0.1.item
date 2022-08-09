@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_DluBgBHuEe2V-uJ6kKBHPQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_DluBgRHuEe2V-uJ6kKBHPQ" comment="" name="DBControl_Login" prompt="DBControl_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root"/>
+  <contextParameter xmi:id="_DluBghHuEe2V-uJ6kKBHPQ" comment="" name="DBControl_AdditionalParams" prompt="DBControl_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC"/>
+  <contextParameter xmi:id="_DluBgxHuEe2V-uJ6kKBHPQ" comment="" name="DBControl_Server" prompt="DBControl_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_DluBhBHuEe2V-uJ6kKBHPQ" comment="" name="DBControl_Database" prompt="DBControl_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="training"/>
+  <contextParameter xmi:id="_DluBhRHuEe2V-uJ6kKBHPQ" comment="" name="DBControl_Port" prompt="DBControl_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_DluBhhHuEe2V-uJ6kKBHPQ" comment="" name="DBControl_Password" prompt="DBControl_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:HqYxUV75eW4a5PXg+tVj+ccXuxbaBoKu+DXjT3CDwT8="/>
+</talendfile:ContextType>

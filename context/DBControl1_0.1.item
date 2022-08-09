@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_eK6-gBHuEe2V-uJ6kKBHPQ" confirmationNeeded="false" name="development">
+    <contextParameter xmi:id="_eK6-gRHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Login" prompt="DBControl1_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root"/>
+    <contextParameter xmi:id="_eK6-ghHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_AdditionalParams" prompt="DBControl1_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC"/>
+    <contextParameter xmi:id="_eK6-gxHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Server" prompt="DBControl1_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_eK6-hBHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Database" prompt="DBControl1_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="trainning"/>
+    <contextParameter xmi:id="_eK6-hRHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Port" prompt="DBControl1_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_eK6-hhHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Password" prompt="DBControl1_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:xg3cjBAur8VCg9UsMSaFTxL4Q5S6Q5Rp2ZnnxU9Hnmg="/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_eK6-hxHuEe2V-uJ6kKBHPQ" confirmationNeeded="false" name="production">
+    <contextParameter xmi:id="_eK6-iBHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Login" prompt="DBControl1_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root"/>
+    <contextParameter xmi:id="_eK6-iRHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_AdditionalParams" prompt="DBControl1_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC"/>
+    <contextParameter xmi:id="_eK6-ihHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Server" prompt="DBControl1_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_eK6-ixHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Database" prompt="DBControl1_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="trainning"/>
+    <contextParameter xmi:id="_eK6-jBHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Port" prompt="DBControl1_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_eK6-jRHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Password" prompt="DBControl1_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:f2jHfpvQUaytZGcUXoEjvayGIsiWSnB5rP5f7028E7M="/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_eK6-jhHuEe2V-uJ6kKBHPQ" confirmationNeeded="false" name="test">
+    <contextParameter xmi:id="_eK6-jxHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Login" prompt="DBControl1_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root"/>
+    <contextParameter xmi:id="_eK6-kBHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_AdditionalParams" prompt="DBControl1_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC"/>
+    <contextParameter xmi:id="_eK6-kRHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Server" prompt="DBControl1_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_eK6-khHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Database" prompt="DBControl1_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="trainning"/>
+    <contextParameter xmi:id="_eK6-kxHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Port" prompt="DBControl1_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_eK6-lBHuEe2V-uJ6kKBHPQ" comment="" name="DBControl1_Password" prompt="DBControl1_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:z1KyjRXyHxGJRnyOCk3sCwcSXZu6eBvXwNe8vBzv/l4="/>
+  </talendfile:ContextType>
+</xmi:XMI>

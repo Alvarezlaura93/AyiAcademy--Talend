@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_n1hgAJ4wEeuCEd7-41lRQQ" confirmationNeeded="false" name="Development">
+    <contextParameter xmi:id="_n1hgAZ4wEeuCEd7-41lRQQ" comment="" name="DBControl_Login" prompt="DBControl_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_n1hgAp4wEeuCEd7-41lRQQ" comment="" name="DBControl_Database" prompt="DBControl_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="trainning"/>
+    <contextParameter xmi:id="_n1hgA54wEeuCEd7-41lRQQ" comment="" name="DBControl_Port" prompt="DBControl_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_n1hgBJ4wEeuCEd7-41lRQQ" comment="" name="DBControl_Password" prompt="DBControl_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:6IXcL5zYC91g5/t5IPLUoEtEbZrmVkqqEbPi9bK4MmE="/>
+    <contextParameter xmi:id="_n1hgBZ4wEeuCEd7-41lRQQ" comment="" name="DBControl_Server" prompt="DBControl_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_n1hgBp4wEeuCEd7-41lRQQ" comment="" name="DBControl_AdditionalParams" prompt="DBControl_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC"/>
+    <contextParameter xmi:id="_n1hgB54wEeuCEd7-41lRQQ" comment="" name="StagingDirectory" prompt="StagingDirectory?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/StudentFiles/DIBasics/ExecutionControl/Staging/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_n1hgCJ4wEeuCEd7-41lRQQ" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_n1hgCZ4wEeuCEd7-41lRQQ" comment="" name="DBControl_Login" prompt="DBControl_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_n1hgCp4wEeuCEd7-41lRQQ" comment="" name="DBControl_Database" prompt="DBControl_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="production"/>
+    <contextParameter xmi:id="_n1hgC54wEeuCEd7-41lRQQ" comment="" name="DBControl_Port" prompt="DBControl_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_n1hgDJ4wEeuCEd7-41lRQQ" comment="" name="DBControl_Password" prompt="DBControl_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:ZT7lN8QpKXQ7+eM+JlD6MI1E0p/i4TB/cm5eIl5VQaQ="/>
+    <contextParameter xmi:id="_n1hgDZ4wEeuCEd7-41lRQQ" comment="" name="DBControl_Server" prompt="DBControl_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_n1hgDp4wEeuCEd7-41lRQQ" comment="" name="DBControl_AdditionalParams" prompt="DBControl_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC"/>
+    <contextParameter xmi:id="_n1hgD54wEeuCEd7-41lRQQ" comment="" name="StagingDirectory" prompt="StagingDirectory?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/StudentFiles/DIBasics/ExecutionControl/Staging/"/>
+  </talendfile:ContextType>
+</xmi:XMI>
